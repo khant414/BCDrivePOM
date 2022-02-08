@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZXCD4BkmrsaU7ASYN2bNWSdBNki3m/ELQXmT5nQnJN1ByzG7xB3HSV9lSDJo+ZUgUPMCeh15HDScZEC2BPHOFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kyhantul\\source\\repos\\DriveBCPOM\\DriveBCPOM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kyhantul\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\kyhantul\\.nuget\\packages\\selenium.support\\4.1.0\\selenium.support.4.1.0.nupkg.sha512",
+    "C:\\Users\\kyhantul\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\kyhantul\\.nuget\\packages\\selenium.webdriver.chromedriver\\98.0.4758.8000\\selenium.webdriver.chromedriver.98.0.4758.8000.nupkg.sha512"
+  ],
+  "logs": []
+}
